@@ -1,0 +1,118 @@
+*{
+    margin: 0px;
+}
+
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+.container-box{
+  top: 0%;
+  padding: 50px;
+  background-image: url(https://wallpapercave.com/wp/wp5885671.jpg);
+  background-size: cover;
+  height: 80vh;
+  text-align: center;
+}
+
+.container{
+  background-color: white;
+  margin: 0px;
+  width: 500px;
+  left: 0px;
+  right: 0px;
+  height: 100px;
+  padding: 0px 30px;
+  text-align: right;
+}
+
+.navbar{
+  margin: 0px;
+  background-color: aqua;
+}
+
+.navbar-brand{
+  font-weight: 2000px;
+  vertical-align: bottom;
+  font-variant: small-caps;
+  font-size: 50px !important;
+}
+
+.navbar {
+  background-color: black;
+  padding: 5px;
+  height: 0%; 
+}
+
+#about{
+  background-color: aqua;
+  margin: 0%;
+  height: 500px;
+  text-align: center;
+  top: 0px;
+  padding: 10px 50px;
+}
+
+#Services{
+  background-color: lightgray;
+  margin: 0%;
+  height: 500px;
+  text-align: center;
+  top: 0px;
+  padding: 10px 50px;
+}
+.card-body{
+  font-size: 10px;
+  left: 5px;
+  right: 5px;
+  text-shadow: 0px 0px 1px white;
+}
+
+.card {
+  cursor: pointer;
+  pointer-events: painted;
+  border: 5px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px sandybrown;
+  height: 250px;
+
+}
+.card-title {
+  border: 5px;
+  border-radius: 50px;
+  box-shadow: 0px 0px 10px sandybrown;
+  margin: 0px;
+  font-weight: bold;
+  color: blue;
+  cursor: pointer;
+}
+.container{
+  color: black;
+  
+}
+
+.nav-item{
+  text-align: right;
+  font-size: 20px;
+  background-color: lightblue ;
+  border: 5px;
+  border-radius: 30px;
+  box-shadow: 0px 0px 10px black;
+  padding: 0px 3px;
+  margin-right: 20px;
+}
+
+.nav-item :hover{
+  border: 30px;
+  border-radius: 20px;
+}
+
+#contact{
+  background-color: aqua;
+  height: 100px;
+  padding: 50px 50px;
+  text-align: center;
+  padding: 0px 10px
+
+}
